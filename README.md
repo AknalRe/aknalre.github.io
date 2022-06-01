@@ -1,12 +1,20 @@
 Directory Structure
+
 -------------------
 css\              - Stylesheets CSS files for the template.
+<br>
 images\           - Images used in template.
+<br>
 scripts\          - JavaScript used in the template.
+<br>
 styles\           - SCSS source files for stylesheets CSS. Available in Purchased versions only.
+<br>
 favicon.ico       - Favicon placeholder provided for the template.
+<br>
 index.html        - Main HTML page to open the template in browser.
+<br>
 *.html            - Additional HTML pages (if any).
+<br>
 LICENSE-*.txt     - License file as per your downloaded variant.
 
 How to Edit the template
